@@ -1,0 +1,14 @@
+C:\Users\ricar\source\repos\1_DesplazamientoDerecha_8\1_DesplazamientoDerecha_8\bin\Debug\netcoreapp3.1\1_DesplazamientoDerecha_8.exe
+C:\Users\ricar\source\repos\1_DesplazamientoDerecha_8\1_DesplazamientoDerecha_8\bin\Debug\netcoreapp3.1\1_DesplazamientoDerecha_8.deps.json
+C:\Users\ricar\source\repos\1_DesplazamientoDerecha_8\1_DesplazamientoDerecha_8\bin\Debug\netcoreapp3.1\1_DesplazamientoDerecha_8.runtimeconfig.json
+C:\Users\ricar\source\repos\1_DesplazamientoDerecha_8\1_DesplazamientoDerecha_8\bin\Debug\netcoreapp3.1\1_DesplazamientoDerecha_8.runtimeconfig.dev.json
+C:\Users\ricar\source\repos\1_DesplazamientoDerecha_8\1_DesplazamientoDerecha_8\bin\Debug\netcoreapp3.1\1_DesplazamientoDerecha_8.dll
+C:\Users\ricar\source\repos\1_DesplazamientoDerecha_8\1_DesplazamientoDerecha_8\bin\Debug\netcoreapp3.1\1_DesplazamientoDerecha_8.pdb
+C:\Users\ricar\source\repos\1_DesplazamientoDerecha_8\1_DesplazamientoDerecha_8\obj\Debug\netcoreapp3.1\1_DesplazamientoDerecha_8.csproj.AssemblyReference.cache
+C:\Users\ricar\source\repos\1_DesplazamientoDerecha_8\1_DesplazamientoDerecha_8\obj\Debug\netcoreapp3.1\1_DesplazamientoDerecha_8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ricar\source\repos\1_DesplazamientoDerecha_8\1_DesplazamientoDerecha_8\obj\Debug\netcoreapp3.1\1_DesplazamientoDerecha_8.AssemblyInfoInputs.cache
+C:\Users\ricar\source\repos\1_DesplazamientoDerecha_8\1_DesplazamientoDerecha_8\obj\Debug\netcoreapp3.1\1_DesplazamientoDerecha_8.AssemblyInfo.cs
+C:\Users\ricar\source\repos\1_DesplazamientoDerecha_8\1_DesplazamientoDerecha_8\obj\Debug\netcoreapp3.1\1_DesplazamientoDerecha_8.csproj.CoreCompileInputs.cache
+C:\Users\ricar\source\repos\1_DesplazamientoDerecha_8\1_DesplazamientoDerecha_8\obj\Debug\netcoreapp3.1\1_DesplazamientoDerecha_8.dll
+C:\Users\ricar\source\repos\1_DesplazamientoDerecha_8\1_DesplazamientoDerecha_8\obj\Debug\netcoreapp3.1\1_DesplazamientoDerecha_8.pdb
+C:\Users\ricar\source\repos\1_DesplazamientoDerecha_8\1_DesplazamientoDerecha_8\obj\Debug\netcoreapp3.1\1_DesplazamientoDerecha_8.genruntimeconfig.cache

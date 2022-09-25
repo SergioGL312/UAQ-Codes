@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="FormAlgoritmos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormBinaria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormBurbuja.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormBurbujaBandera.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormBusqueda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormInsercion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormIntercambio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormLineal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormOptimizacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormOrdenamiento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormQuicksort.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormSeleccion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormShell.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormX.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

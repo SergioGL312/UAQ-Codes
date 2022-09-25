@@ -1,0 +1,16 @@
+C:\Users\ricar\source\repos\Generador de Contraseñas\Generador de Contraseñas\obj\Debug\net5.0\Generador de Contraseñas.csproj.AssemblyReference.cache
+C:\Users\ricar\source\repos\Generador de Contraseñas\Generador de Contraseñas\obj\Debug\net5.0\Generador de Contraseñas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ricar\source\repos\Generador de Contraseñas\Generador de Contraseñas\obj\Debug\net5.0\Generador de Contraseñas.AssemblyInfoInputs.cache
+C:\Users\ricar\source\repos\Generador de Contraseñas\Generador de Contraseñas\obj\Debug\net5.0\Generador de Contraseñas.AssemblyInfo.cs
+C:\Users\ricar\source\repos\Generador de Contraseñas\Generador de Contraseñas\obj\Debug\net5.0\Generador de Contraseñas.csproj.CoreCompileInputs.cache
+C:\Users\ricar\source\repos\Generador de Contraseñas\Generador de Contraseñas\bin\Debug\net5.0\Generador de Contraseñas.exe
+C:\Users\ricar\source\repos\Generador de Contraseñas\Generador de Contraseñas\bin\Debug\net5.0\Generador de Contraseñas.deps.json
+C:\Users\ricar\source\repos\Generador de Contraseñas\Generador de Contraseñas\bin\Debug\net5.0\Generador de Contraseñas.runtimeconfig.json
+C:\Users\ricar\source\repos\Generador de Contraseñas\Generador de Contraseñas\bin\Debug\net5.0\Generador de Contraseñas.runtimeconfig.dev.json
+C:\Users\ricar\source\repos\Generador de Contraseñas\Generador de Contraseñas\bin\Debug\net5.0\Generador de Contraseñas.dll
+C:\Users\ricar\source\repos\Generador de Contraseñas\Generador de Contraseñas\bin\Debug\net5.0\ref\Generador de Contraseñas.dll
+C:\Users\ricar\source\repos\Generador de Contraseñas\Generador de Contraseñas\bin\Debug\net5.0\Generador de Contraseñas.pdb
+C:\Users\ricar\source\repos\Generador de Contraseñas\Generador de Contraseñas\obj\Debug\net5.0\Generador de Contraseñas.dll
+C:\Users\ricar\source\repos\Generador de Contraseñas\Generador de Contraseñas\obj\Debug\net5.0\ref\Generador de Contraseñas.dll
+C:\Users\ricar\source\repos\Generador de Contraseñas\Generador de Contraseñas\obj\Debug\net5.0\Generador de Contraseñas.pdb
+C:\Users\ricar\source\repos\Generador de Contraseñas\Generador de Contraseñas\obj\Debug\net5.0\Generador de Contraseñas.genruntimeconfig.cache

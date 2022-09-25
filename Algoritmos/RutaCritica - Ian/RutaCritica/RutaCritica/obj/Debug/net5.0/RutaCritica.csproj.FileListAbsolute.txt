@@ -1,0 +1,16 @@
+C:\Users\ricar\Desktop\RutaCritica\RutaCritica\RutaCritica\bin\Debug\net5.0\RutaCritica.exe
+C:\Users\ricar\Desktop\RutaCritica\RutaCritica\RutaCritica\bin\Debug\net5.0\RutaCritica.deps.json
+C:\Users\ricar\Desktop\RutaCritica\RutaCritica\RutaCritica\bin\Debug\net5.0\RutaCritica.runtimeconfig.json
+C:\Users\ricar\Desktop\RutaCritica\RutaCritica\RutaCritica\bin\Debug\net5.0\RutaCritica.runtimeconfig.dev.json
+C:\Users\ricar\Desktop\RutaCritica\RutaCritica\RutaCritica\bin\Debug\net5.0\RutaCritica.dll
+C:\Users\ricar\Desktop\RutaCritica\RutaCritica\RutaCritica\bin\Debug\net5.0\ref\RutaCritica.dll
+C:\Users\ricar\Desktop\RutaCritica\RutaCritica\RutaCritica\bin\Debug\net5.0\RutaCritica.pdb
+C:\Users\ricar\Desktop\RutaCritica\RutaCritica\RutaCritica\obj\Debug\net5.0\RutaCritica.csproj.AssemblyReference.cache
+C:\Users\ricar\Desktop\RutaCritica\RutaCritica\RutaCritica\obj\Debug\net5.0\RutaCritica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ricar\Desktop\RutaCritica\RutaCritica\RutaCritica\obj\Debug\net5.0\RutaCritica.AssemblyInfoInputs.cache
+C:\Users\ricar\Desktop\RutaCritica\RutaCritica\RutaCritica\obj\Debug\net5.0\RutaCritica.AssemblyInfo.cs
+C:\Users\ricar\Desktop\RutaCritica\RutaCritica\RutaCritica\obj\Debug\net5.0\RutaCritica.csproj.CoreCompileInputs.cache
+C:\Users\ricar\Desktop\RutaCritica\RutaCritica\RutaCritica\obj\Debug\net5.0\RutaCritica.dll
+C:\Users\ricar\Desktop\RutaCritica\RutaCritica\RutaCritica\obj\Debug\net5.0\ref\RutaCritica.dll
+C:\Users\ricar\Desktop\RutaCritica\RutaCritica\RutaCritica\obj\Debug\net5.0\RutaCritica.pdb
+C:\Users\ricar\Desktop\RutaCritica\RutaCritica\RutaCritica\obj\Debug\net5.0\RutaCritica.genruntimeconfig.cache
