@@ -1,4 +1,4 @@
-o# Generación de lenguajes
+# Generación de lenguajes
 Usando un lenguaje de alto nivel realizar un programa que genere un conjunto de palabras. Como datos de entrada el programa recibirá la siguiente información:
 
 1.  Un valor _**m**_  el cual corresponde a la carnalidad del alfabeto del lenguaje.
