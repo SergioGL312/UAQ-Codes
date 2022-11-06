@@ -1,4 +1,4 @@
-let w;
+let word;
 let tam, longi, k = 0;
 let sigma = [];
 
@@ -8,28 +8,25 @@ const pedirDatos = () => {
 	for (let i = 0; i < tam; i++) {
 		sigma.push(prompt(`${(i + 1)}.- Digite la letra`));
 	}
-    w = prompt("Digite la palabra");
-    w = w.split('');
-    console.log(w);
+    word = prompt("Digite la palabra");
+    word = word.split('');
+    console.log(word);
 }
 
 
-const palindromo = (sigma, w) => {
-    for (let i = 0; i < sigma.length; i++) {
-        let elemento = sigma[i];
-        if (w.includes(elemento)){
+const palindromo = (sigma, word) => {
+    for (let i = 0; i < word.length; i++) {
+        if (sigma.includes(word[i])){
             k++;
         }   
     }
-    let p = w.reverse();
-    console.log(p);
-    if (k == w.length && w == p) {
+    let palindrome = word.reverse();
+    console.log(palindrome);
+    if (k == word.length && word == palindrome) {
         document.write("La palabra si tiene los simbolos del alfabeto y es un palindromo");
-    }
-    if(k == w.length) {
+    } else if(k == word.length) {
         document.write("La palabra si tiene los simbolos del alfabeto pero no es un palindromo");
-    }
-    if (w == p) {
+    } else if (word == palindrome) {
         document.write("La palabra si es un palindromo pero algun simbolo no esta en el alfabeto");
     }
 
@@ -37,4 +34,4 @@ const palindromo = (sigma, w) => {
 }
 
 pedirDatos();
-palindromo(sigma, w);
+palindromo(sigma, word);
